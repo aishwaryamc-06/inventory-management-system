@@ -1,0 +1,8 @@
+*.log
+*.tmp
+.env
+.DS_Store
+
+InventorySystem_PHP/01 LOGIN DETAILS & PROJECT INFO.txt
+InventorySystem_PHP/DATABASE FILE/01 LOGIN DETAILS & PROJECT INFO.txt
+InventorySystem_PHP/includes/01 LOGIN DETAILS & PROJECT INFO.txt
