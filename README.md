@@ -2,9 +2,6 @@
 
 A web-based Inventory Management System built with **PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap**. Manages products, categories, users, stock, sales, and sales reports through a role-based interface.
 
-**Built by:** Aishwarya M C
-🔗 [LinkedIn](#) • [GitHub](#)
-
 ---
 
 ## 📑 Table of Contents
